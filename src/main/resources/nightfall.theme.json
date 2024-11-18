@@ -31,9 +31,9 @@
     "border3": "#262733",
     "border4": "#313242",
 
-    "accentColor1": "#e9436d",
-    "accentColor2": "#b877db",
-    "accentColor3": "#fab38e",
+    "accentColor1": "#43dbe9",
+    "accentColor2": "#c2db77",
+    "accentColor3": "#fa8ec8",
 
     "hoverBackground": "#282a36",
     "selectionBackground": "#2a2c38",
@@ -276,8 +276,8 @@
 
     "PopupMenu.background": "backgroundAlt",
 
-    "ProgressBar.failedColor": "#ff5554",
-    "ProgressBar.failedEndColor": "#ff5554",
+    "ProgressBar.failedColor": "#ffe854",
+    "ProgressBar.failedEndColor": "#65ff54",
     "ProgressBar.indeterminateEndColor": "accentColor2",
     "ProgressBar.indeterminateStartColor": "#93b8f9",
     "ProgressBar.passedColor": "#50fa7b",
