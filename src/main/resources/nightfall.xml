@@ -1729,7 +1729,7 @@
         </option>
         <option name="KOTLIN_DOUBLE_COLON">
             <value>
-                <option name="FOREGROUND" value="7fdaff" />
+                    <option name="FOREGROUND" value="90EE90" />
             </value>
         </option>
         <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
@@ -1806,12 +1806,12 @@
         </option>
         <option name="KOTLIN_VARIABLE_AS_FUNCTION">
             <value>
-                <option name="FOREGROUND" value="70b0ff" />
+                <option name="FOREGROUND" value="8A2BE2" />
             </value>
         </option>
         <option name="KOTLIN_VARIABLE_AS_FUNCTION_LIKE">
             <value>
-                <option name="FOREGROUND" value="70b0ff" />
+                <option name="FOREGROUND" value="8A2BE2" />
             </value>
         </option>
         <!-- /Kotlin -->
